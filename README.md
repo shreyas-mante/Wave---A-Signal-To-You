@@ -30,6 +30,48 @@
 17. Use of Lottie - A mobile library for Android and iOS that parses Adobe After Effects animations exported as json.
 
 
+### Screenshots :
+
+1. Splash Screen / Welcome Screen :
+<img src="https://github.com/shreyas-mante/Wave---A-Signal-To-You/blob/main/Screenshots/Screenshot_2021-05-02-16-03-55-77_aa90a2d1b9b24e6079074fe64a8de64e.jpg" width="200" height="100"/>
+
+2. OTP Authentication :
+![Screenshot_2021-05-02-16-17-14-09_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810551-0d1bc300-ab62-11eb-82cf-be363b494510.jpg)
+![Screenshot_2021-05-02-16-04-34-06_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810557-13aa3a80-ab62-11eb-9e7d-04add60bde45.jpg)
+
+
+3. Register with Validation :
+![Screenshot_2021-05-02-16-05-56-59_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810580-2ae92800-ab62-11eb-841e-79da1b4d33e6.jpg)
+![Screenshot_2021-05-02-16-29-06-04_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810862-b57e5700-ab63-11eb-9938-963cb38cc5fa.jpg)
+![Screenshot_2021-05-02-16-09-07-98_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810582-2c1a5500-ab62-11eb-8bb6-cd5fc4fb4109.jpg)
+
+
+4. Login :
+![Screenshot_2021-05-02-16-09-29-93_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810659-b2cf3200-ab62-11eb-8880-e0b40329eaca.jpg)
+
+
+5. Users & Chats :
+![Screenshot_2021-05-02-16-10-04-35_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810667-bbc00380-ab62-11eb-92f1-752a1fd99bfd.jpg)
+
+
+6. Personal Chatting Window : 
+![Screenshot_2021-05-02-16-10-54-48_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810706-edd16580-ab62-11eb-9730-aa506cacfb91.jpg)
+
+7. Cryptography Alogrithms :
+![Screenshot_2021-05-02-16-11-08-85_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810722-0477bc80-ab63-11eb-935a-081e94af4c5f.jpg)
+
+8. Encrypted Text (When you use AES , FED becomes encrypted on screen and vice versa , in database both are encrypted )  : 
+![Screenshot_2021-05-02-16-11-17-44_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810735-13f70580-ab63-11eb-80b6-3990af5d0b83.jpg)
+![Screenshot_2021-05-02-16-11-28-40_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810736-15283280-ab63-11eb-8ec2-ec1f73f889ff.jpg)
+![Screenshot_20210502-164457](https://user-images.githubusercontent.com/47007703/116811340-71408600-ab66-11eb-8e4a-03ac7a3c2950.png)
+![Screenshot_20210502-164736](https://user-images.githubusercontent.com/47007703/116811341-7271b300-ab66-11eb-9a2a-a68467da20f7.png)
+
+
+9. Status Online / Offline with Logout :
+![Screenshot_20210502-161342](https://user-images.githubusercontent.com/47007703/116811367-9503cc00-ab66-11eb-8fca-d26a22bec9c4.png)
+![Screenshot_20210502-161354](https://user-images.githubusercontent.com/47007703/116811369-9634f900-ab66-11eb-9bfd-7e5a03900a67.png)
+
+
 ### Dependencies :
 ```
     implementation 'br.com.simplepass:loading-button-android:1.14.0'
