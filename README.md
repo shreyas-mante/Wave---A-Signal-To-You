@@ -33,7 +33,7 @@
 ### Screenshots :
 
 1. Splash Screen / Welcome Screen :
-![Screenshot_2021-05-02-16-03-55-77_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810500-b7dfb180-ab61-11eb-91a2-c09ef7ca3387.jpg)
+![Screenshot_2021-05-02-16-03-55-77_aa90a2d1b9b24e6079074fe64a8de64e | 12 x 12](https://user-images.githubusercontent.com/47007703/116810500-b7dfb180-ab61-11eb-91a2-c09ef7ca3387.jpg)
 
 
 2. OTP Authentication :
