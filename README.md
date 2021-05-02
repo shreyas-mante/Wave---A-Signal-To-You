@@ -33,7 +33,7 @@
 ### Screenshots :
 
 1. Splash Screen / Welcome Screen :
-<img src="https://github.com/shreyas-mante/Wave---A-Signal-To-You/blob/main/Screenshots/Screenshot_2021-05-02-16-03-55-77_aa90a2d1b9b24e6079074fe64a8de64e.jpg" width="200" height="100"/>
+<img src="https://github.com/shreyas-mante/Wave---A-Signal-To-You/blob/main/Screenshots/Screenshot_2021-05-02-16-03-55-77_aa90a2d1b9b24e6079074fe64a8de64e.jpg" width="500" height="300"/>
 
 2. OTP Authentication :
 ![Screenshot_2021-05-02-16-17-14-09_aa90a2d1b9b24e6079074fe64a8de64e](https://user-images.githubusercontent.com/47007703/116810551-0d1bc300-ab62-11eb-82cf-be363b494510.jpg)
